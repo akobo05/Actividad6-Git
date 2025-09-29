@@ -1,0 +1,5 @@
+commit 90180d89968e97f9fb078c4c1fb46617bd27704e
+Author: Aaron Davila Santos <aaron.2000.539@gmailcom>
+Date:   Sun Sep 28 19:24:31 2025 -0500
+
+    Commit inicial con README.md

@@ -1,0 +1,6 @@
+user.name=Aaron Davila Santos
+user.email=aaron.2000.539@gmailcom
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
